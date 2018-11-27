@@ -9,7 +9,9 @@ The code provided here allows to simulate the model with different MOI condition
 3. Heldt FS, Frensing T, Pflugmacher A, Gröpler R, Peschel B, Reichl U. Multiscale modeling of influenza A virus infection supports the development of direct-acting antivirals. PLoS Computational Biology. 2013;9(11):e1003372. https://www.doi.org/10.1371/journal.pcbi.1003372
 
 ## Requirements
-Systems Biology Toolbox for MATLAB by Schmidt and Jirstrand (Bioinformatics, 2006), available at http://www.sbtoolbox2.org/main.php?display=download&menu=download
+- MATLAB (MathWorks, Inc.)
+
+- Systems Biology Toolbox for MATLAB by Schmidt and Jirstrand (Bioinformatics, 2006), available at http://www.sbtoolbox2.org/main.php?display=download&menu=download
 
 ## Optional programs (for faster simulation and optimization)
 - C/C++ compiler: Creates MEX-files for a faster simulation with the SB Toolbox (e.g. MinGW 6.3 C/C++ for Windows or GCC for Linux)
