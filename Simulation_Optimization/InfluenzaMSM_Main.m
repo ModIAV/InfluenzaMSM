@@ -194,7 +194,7 @@ p.InToEx.VariableNames                    = SBvariables(InToExModel);
 
 % Create Mex-files for faster simulation
 try
-fprintf('Attempt to create Mex-files ...n');
+    fprintf('Attempt to create Mex-files ...n');
     SBPDmakeMEXmodel(InModel,     'InModel_MexFile');
     SBPDmakeMEXmodel(InToExModel, 'InModelToEx_MexFile');
     p.CompileFlag = 1;  % compilation successful
