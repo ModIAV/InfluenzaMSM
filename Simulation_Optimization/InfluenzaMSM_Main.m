@@ -22,7 +22,7 @@ p.Info.StartTime = clock;
 p.Ex = Sim_ParameterDeclaration; % import basic extracellular parameters
 
 %% Main options
-p.Task    = 'optimize';  % tasks: 'simulate', 'optimize'
+p.Task    = 'simulate';  % tasks: 'simulate', 'optimize'
 p.SimMode = '';          % modes: ''        (extended model) 
                          %        'noInhib' (extended model w/o mRNA synthesis inhibition)
 
