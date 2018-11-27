@@ -5,8 +5,8 @@ The code provided here allows to simulate the model with different MOI condition
 
 ## References
 1. Rüdiger D, Kupke SY, Laske T, Zmora P, Reichl U. Multiscale modeling of influenza A virus replication in cell cultures predicts infection dynamics for highly different infection conditions. Unpublished.
-2. Heldt FS, Frensing T, Reichl U. Modeling the intracellular dynamics of influenza virus replication to understand the control of viral RNA synthesis. Journal of Virology. 2012;86(15):7806-7817.
-3. Heldt FS, Frensing T, Pflugmacher A, Gröpler R, Peschel B, Reichl U. Multiscale modeling of influenza A virus infection supports the development of direct-acting antivirals. PLoS Computational Biology. 2013;9(11):e1003372.
+2. Heldt FS, Frensing T, Reichl U. Modeling the intracellular dynamics of influenza virus replication to understand the control of viral RNA synthesis. Journal of Virology. 2012;86(15):7806-7817. https://www.doi.org/10.1128/JVI.00080-12
+3. Heldt FS, Frensing T, Pflugmacher A, Gröpler R, Peschel B, Reichl U. Multiscale modeling of influenza A virus infection supports the development of direct-acting antivirals. PLoS Computational Biology. 2013;9(11):e1003372. https://www.doi.org/10.1371/journal.pcbi.1003372
 
 ## Requirements
 Systems Biology Toolbox for MATLAB by Schmidt and Jirstrand (Bioinformatics, 2006), available at http://www.sbtoolbox2.org/main.php?display=download&menu=download
