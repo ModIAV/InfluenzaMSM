@@ -194,10 +194,12 @@ p.InToEx.VariableNames                    = SBvariables(InToExModel);
 
 % Create Mex-files for faster simulation
 try
+fprintf('Attempt to create Mex-files ...n');
     SBPDmakeMEXmodel(InModel,     'InModel_MexFile');
     SBPDmakeMEXmodel(InToExModel, 'InModelToEx_MexFile');
     p.CompileFlag = 1;  % compilation successful
 catch ModelCompileError
+    fprintf('Compilation failed. Solver ode23s is applied for model simulation.\n')
     p.CompileFlag = 0;  % compilation failed
     p.InModel = InModel;
     p.InToExModel = InToExModel;
