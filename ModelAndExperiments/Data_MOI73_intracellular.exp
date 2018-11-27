@@ -1,0 +1,15 @@
+********** EXPERIMENT NAME
+Data_MOI73_intracellular
+
+********** EXPERIMENT NOTES
+Experimental data for the intracellular dynamics of an MDCK cell infection at MOI 73 from Frensing et al., Appl Microbiol Biotechnol, 2016. 
+
+********** EXPERIMENT INITIAL PARAMETER AND STATE SETTINGS
+Vex(0)  = 73
+
+
+
+********** EXPERIMENT PARAMETER CHANGES
+
+
+********** EXPERIMENT STATE CHANGES

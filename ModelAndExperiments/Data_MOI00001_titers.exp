@@ -1,0 +1,15 @@
+********** EXPERIMENT NAME
+Data_MOI00001_titers
+
+********** EXPERIMENT NOTES
+Viral titers of an influenza A virus infection of an MDCK cell culture at MOI 0.0001 performed according to Frensing et al., Appl Microbiol Biotechnol, 2016. 
+
+********** EXPERIMENT INITIAL PARAMETER AND STATE SETTINGS
+Vex(0)  = 1e-4
+
+
+
+********** EXPERIMENT PARAMETER CHANGES
+
+
+********** EXPERIMENT STATE CHANGES

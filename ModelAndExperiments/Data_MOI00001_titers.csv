@@ -1,0 +1,27 @@
+[Name]
+Data_MOI00001_titers
+
+[Notes]
+Viral titers of an influenza A virus infection of an MDCK cell culture at MOI 0.0001 performed according to Frensing et al., Appl Microbiol Biotechnol, 2016. 
+
+[Components]
+time, V, Par, StdV, StdPar
+
+[Componentnotes]
+
+[Values]
+0,,,,
+8,8.30E+01,,4.39E+01,
+16,4.37E+06,,1.20E+06,
+24,1.14E+08,4.87E+08,1.84E+07,2.92E+07
+32,6.18E+08,6.03E+09,2.25E+08,8.71E+08
+40,8.82E+08,1.30E+10,1.28E+08,1.56E+09
+48,9.44E+08,1.56E+10,9.79E+07,1.51E+09
+56,9.53E+08,1.64E+10,9.47E+07,1.39E+09
+64,9.53E+08,1.65E+10,9.47E+07,1.32E+09
+72,9.53E+08,1.65E+10,9.47E+07,1.32E+09
+80,9.53E+08,1.65E+10,9.47E+07,1.32E+09
+
+
+
+

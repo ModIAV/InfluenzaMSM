@@ -1,0 +1,18 @@
+********** EXPERIMENT NAME
+Data_MOI3_extracellular
+
+********** EXPERIMENT NOTES
+Experimental data for the extracellular dynamics of an MDCK cell infection at MOI 73 from Frensing et al., Appl Microbiol Biotechnol, 2016. 
+
+********** EXPERIMENT INITIAL PARAMETER AND STATE SETTINGS
+T(0)  = 1e+06 % 4.24E+05 + 1.75E+05
+Ta(0) = 2.63E+04
+V(0)   = 33711641.7991167
+
+
+
+
+********** EXPERIMENT PARAMETER CHANGES
+
+
+********** EXPERIMENT STATE CHANGES
